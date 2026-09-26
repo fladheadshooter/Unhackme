@@ -230,4 +230,4 @@ UnHackMe is offered as a complete free version with all features and updates inc
 Download UnHackMe today and secure your Windows PC against rootkits and other hidden threats! Your safety is just a click away.
 
 ---
-**Last updated:** 2026-09-26 15:40:42 UTC
+**Last updated:** 2026-09-26 18:50:57 UTC
